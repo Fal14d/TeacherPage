@@ -1,0 +1,58 @@
+﻿.SignInErrorMessage {
+    max-width: 800px;
+    padding: 10px 5px;
+    width: 100%;
+}
+
+.SignInInputLabel {
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+.SignInInput {
+    border-style: solid;
+    border-color: dimgray;
+    border-width: 2px;
+    height: 32px;
+}
+
+.SignInInputEmail {
+    max-width: 450px;
+    min-width: 300px;
+}
+
+.SignInInputUserID {
+    width: 160px;
+}
+
+.SignInInputNetworkID {
+    width: 170px;
+}
+
+.SignInInputNetworkAddress {
+    width: 300px;
+}
+
+.SignInInputEmployeeNumber {
+    width: 150px;
+}
+
+.SignInInputPassword {
+    width: 215px;
+}
+
+.SignInButton {
+    font-size: 16px !important;
+    width: 160px;
+    height: 40px;
+}
+
+.SignInImportantInfoLinkButton {
+    color: navy;
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+.SignInImportantInfo {
+    color: navy;
+}

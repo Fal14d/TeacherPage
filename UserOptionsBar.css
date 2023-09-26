@@ -1,0 +1,104 @@
+﻿#UserOptionsDiv {
+    /*text-size-adjust: 200%;*/
+    background-color: none;
+    background: none;
+    align-items: center;
+    border-bottom: 2px solid silver;
+    padding: 7px;
+}
+
+.UserOptionsList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 1rem;
+}
+
+.UserOptionsList li.link {
+    float: right;
+}
+.UserOptionsList li.link > a {
+    text-decoration: underline;
+}
+
+.UserOptionsList li.text {
+    float: left;
+}
+
+.UserOptionsList .PageReference,
+.UserOptionsList .VersionItem,
+.UserOptionsList .EmployeeInformation,
+.UserOptionsList li a,
+.UserOptionsList .dropbutton,
+.UserOptionsList .UserInfoLi {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.UserOptionsList .VersionItem,
+.UserOptionsList .EmployeeInformation {
+    padding: 8px 16px 8px 0;
+}
+
+.UserOptionsList li.dropdown {
+    display: inline-block;
+}
+
+.UserOptionsList .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #F1F1F1;
+    min-width: 160px;
+    box-shadow: 0 4px 4px 0 rgba(0,0,0,0.2);
+    border: 1px solid #909090;
+    z-index: 9999;
+    padding: 4px 0;
+}
+.UserOptionsList .dropdown-content > a {
+    border: 1px solid #F1F1F1;
+}
+
+.UserOptionsList > li.dropdown.link:first-of-type div {
+    left: auto;
+    right: 8px;
+}
+
+/* There's a delay when the dropdown-content div has to listen to this... */
+.UserOptionsList > li.dropdown.link:not(:last-child) > div.dropdown-content {
+    margin-left: 4px;
+}
+
+.UserOptionsList .dropdown-content a {
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.UserOptionsList .show {
+    display:block;
+}
+
+/* Verticle Lines */
+
+.UserOptionsList li:before {
+    content: "|";
+    color: black;
+}
+
+.UserOptionsList li.VersionItem:before,
+.UserOptionsList li.EmployeeInformation:before {
+    margin-right: 16px;
+}
+
+.UserOptionsList li.link:last-child:before, .UserOptionsList li.text:first-child:before {
+    content: none;
+}
+
+.UserOptionsList li:empty {
+    display: none;
+}

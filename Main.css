@@ -1,0 +1,172 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.SmallText, .SmallInputText {
+    font-size: 0.7rem;
+    color: Black;
+}
+
+.SmallTextV {
+	font-weight: bold;
+    font-size: 0.7rem;
+    color: Black;
+}
+
+.MediumText, .MediumTextLabel, .MediumInputText {
+    font-size: 1rem;
+    color: Black;
+}
+
+.MediumTextBoxIn {
+    font-size: 1rem;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: White;
+    color: Black;
+}
+
+/* Input Textbox MMDDYYYY Date */
+.CSSDateIn {
+    font-size: 1rem;
+    min-width: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: White;
+    color: Black;
+    /* z-index: 99997; not entirely sure why this was here initially... */
+    /* - causing issues now with start/stop dates stacked above each other (ie. AdminMEmpReport) */
+}
+
+/* Input Textbox 9.0 */
+.CSSNumb9 {
+    font-size: 1rem;
+    width: 100px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: White;
+    color: Black;
+}
+
+/* Input textbox 5.0 */
+.CSSNumb5 {
+    font-size: 1rem;
+    width: 60px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: White;
+    color: Black;
+}
+
+/* Numeric */
+.CSSNumber {
+    font-size: 1rem;
+    width: 115px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: White;
+    color: Black;
+}
+
+/* Input Area Code 3.0 */
+.CSSPhoneArea {
+    font-size: 1rem;
+    width: 40px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: White;
+    color: Black;
+}
+
+/* Input Phone 7.0 */
+.CSSPhone {
+    font-size: 1rem;
+    width: 80px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: White;
+    color: Black;
+}
+
+.MediumTextBoxOut {
+    font-size: 1rem;
+    border-width: 1px;
+    border-style: solid;
+    border-color: Silver;
+    background-color: #F0F0F0;
+    color: Black;
+}
+
+.Medium90Text {
+	font-family: Courier New, Courier, monospace;
+	font-size: 0.8rem;
+    color: Black;
+}
+
+.LargeText, .LargeInputText {
+    font-size: 1.5rem;
+    color: Black;
+}
+
+.GridText {
+    font-size: 0.8rem;
+    color: Black;
+}
+
+.GridTextSmall {
+    font-size: 0.65rem;
+    color: Black;
+}
+
+.HeadingText {
+    font-size: 1.2rem;
+}
+
+.NoDisplay {
+   display: none;
+}
+
+.interactiveAutoComplete {
+}
+
+.ui-autocomplete {
+	max-height: 130px;
+	overflow: auto;
+	/* add padding to account for vertical scrollbar */
+	padding-right: 20px;
+}
+
+.ui-menu-item {
+	font-size: 0.9rem;
+}
+
+.ui-datepicker {
+	font-size: .8em !important;
+	width: 17em;
+	padding: .2em .2em 0;
+	display: none;
+	z-index: 9999;
+}
+
+/* These are just to help with VS auto complete for classes used in Javascript */
+.IsButton {
+}
+.Button {
+}
+.Timepicker24x15, .Timepicker24x15No0 {
+}
+
+.CenteredDiv {
+    margin: auto;
+    max-width: 80%;
+    min-width: 370px;
+}

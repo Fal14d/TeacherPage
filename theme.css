@@ -1,0 +1,133 @@
+﻿#ConnectText, #BBoardHeading,
+.UserOptionsList li a:hover, .UserOptionsList .dropdown:hover .dropbutton, .UserOptionsList .dropdown-content a:hover {
+    /* Take Two */
+    /* color: #c00000; /**/
+    /* SD72 - Campbell River */
+    /* color: #0bb4d9; /**/
+    /* SD37 - Delta */
+    /* color: #67bd4a; /**/
+    /* FMPSD - Fort McMurray */
+    /* color: #064d38; /* old Connect color */
+    /* color: #00381e; /* site dark version */
+    /* color: #426e2c; /* site light version */
+    /* color: #00603A; /* site text color */
+    /* HSD - Hanover */
+    /* color: #00a4e3; /**/
+    /* ISD */
+    /* color: #ffb400; /**/
+    /* SD23 - Kelowna */
+    /* color: #2667ae; /**/
+    /* LSSD */
+    /* color: #091a84; /**/
+    /* SDML - Mystery Lake */
+    /* color: #11670f; /**/
+    /* Northern College */
+    /* color: #bd5a14; /**/
+    /* PLPSD - Portage */
+    /* color: #69b; /**/
+    /* RETSD - River East Transcona */
+    /* color: #f0b50f; /**/
+    /* SD83 - Salmon Arm */
+    color: #0085B2; /**/
+    /* color: #01669a; /**/
+    /* SOSD - Seven Oaks */
+    /* color: #62ad45 /**/
+    /* TMSD - Turtle Mountain */
+    /* color: #3a6ea0; /**/
+    /* WSD - Winnipeg School Division */
+    /* color: #005cab; /**/
+}
+
+#NavigationList li > a:hover,
+#NavigationList li > a.selected,
+#NavigationList .dropdown:hover .dropbutton,
+#BurgerList li > a:hover,
+#FooterCustom, #back-to-top,
+::selection {
+    /* Take Two */
+    /* background-color: #c00000; /**/
+    /* SD72 - Campbell River */
+    /* background-color: #ed1c24; /**/
+    /* SD37 - Delta */
+    /* background-color: #002f55; /**/
+    /* FMPSD - Fort McMurray */
+    /* background-color: #064d38; /* old Connect color */
+    /* background-color: #00381e; /* site dark version */
+    /* background-color: #426e2c; /* site light version */
+    /* background-color: #00603A; /* site text color */
+    /* HSD - Hanover */
+    /* background-color: #0061aa; /**/
+    /* ISD */
+    /* background-color: #2b2c7a; /**/
+    /* SD23 - Kelowna */
+    /* background-color: #2667ae; /**/
+    /* background-color: #059e4b; /**/
+    /* background-color: #1e9e4b; /* old connect color */
+    /* LSSD */
+    /* background-color: #091a84; /**/
+    /* SDML - Mystery Lake [alt=#11670f(green)] */
+    /* background-color: #0460b9; /**/
+    /* Northern College */
+    /* background-color: #bd5a14; /**/
+    /* PLPSD - Portage */
+    /* background-color: #283e4e; /**/
+    /* RETSD - River East Transcona */
+    /* background-color: #004b85; /**/
+    /* SD83 - Salmon Arm */
+    background-color: #0085B2; /**/
+    /* SOSD - Seven Oaks */
+    /* background-color: #0b5d3a; /**/
+    /* TMSD - Turtle Mountain */
+    /* background-color: #325f8a; /**/
+    /* WSD - Winnipeg School Division */
+    /* background-color: #1d3363; /**/
+}
+
+#NavigationList .dropdown-content a:hover,
+#NavigationList.displayVertically .dropdown-content a:hover,
+#NavigationList .dropdown-content a.selected {
+    /* Take Two */
+    /* color: #c00000; /**/
+    /* SD72 - Campbell River */
+    /* color: #ed1c24; /**/
+    /* SD37 - Delta */
+    /* color: #002f55; /**/
+    /* FMPSD - Fort McMurray */
+    /* color: #064d38; /* old Connect color */
+    /* color: #00381e; /* site dark version */
+    /* color: #426e2c; /* site light version */
+    /* color: #00603A; /* site text color */
+    /* HSD - Hanover */
+    /* color: #0061aa; /**/
+    /* ISD */
+    /* color: #2b2c7a; /**/
+    /* SD23 - Kelowna */
+    /* color: #2667ae; /**/
+    /* color: #059e4b; /**/
+    /* color: #1e9e4b; /* old connect color */
+    /* LSSD */
+    /* color: #091a84; /**/
+    /* SDML - Mystery Lake [alt=#11670f(green)] */
+    /* color: #0460b9; /**/
+    /* Northern College */
+    /* color: #bd5a14; /**/
+    /* PLPSD - Portage */
+    /* color: #283e4e; /**/
+    /* RETSD - River East Transcona */
+    /* color: #004b85; /**/
+    /* SD83 - Salmon Arm */
+    color: #2f179c; /**/
+    /* SOSD - Seven Oaks */
+    /* color: #0b5d3a; /**/
+    /* TMSD - Turtle Mountain */
+    /* color: #325f8a; /**/
+    /* WSD - Winnipeg School Division */
+    /* color: #1d3363; /**/
+}
+
+/* Possible addition for NORCOL to remove datatable header/footer background color */
+/* .dataTables_wrapper > .fg-toolbar.ui-toolbar {
+    background-color: transparent;
+    color: black;
+}
+/**/

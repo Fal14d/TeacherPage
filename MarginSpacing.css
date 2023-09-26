@@ -1,0 +1,251 @@
+﻿.MT5,
+.ChildrenMT5 > *,
+.ChildrenNLMT5 > *:not(:last-child),
+.ChildrenNFMT5 > *:not(:first-child) {
+    margin-top: 5px;
+}
+
+.MT7,
+.ChildrenMT7 > *,
+.ChildrenNLMT7 > *:not(:last-child),
+.ChildrenNFMT7 > *:not(:first-child) {
+    margin-top: 7px;
+}
+
+.MT10,
+.ChildrenMT10 > *,
+.ChildrenNLMT10 > *:not(:last-child),
+.ChildrenNFMT10 > *:not(:first-child) {
+    margin-top: 10px;
+}
+
+.MT15,
+.ChildrenMT15 > *,
+.ChildrenNLMT15 > *:not(:last-child),
+.ChildrenNFMT15 > *:not(:first-child) {
+    margin-top: 15px;
+}
+
+.MT20,
+.ChildrenMT20 > *,
+.ChildrenNLMT20 > *:not(:last-child),
+.ChildrenNFMT20 > *:not(:first-child) {
+    margin-top: 20px;
+}
+
+.MT25,
+.ChildrenMT25 > *,
+.ChildrenNLMT25 > *:not(:last-child),
+.ChildrenNFMT25 > *:not(:first-child) {
+    margin-top: 25px;
+}
+
+.MT30,
+.ChildrenMT30 > *,
+.ChildrenNLMT30 > *:not(:last-child),
+.ChildrenNFMT30 > *:not(:first-child) {
+    margin-top: 30px;
+}
+
+.MT40,
+.ChildrenMT40 > *,
+.ChildrenNLMT40 > *:not(:last-child),
+.ChildrenNFMT40 > *:not(:first-child) {
+    margin-top: 40px;
+}
+
+.MT50,
+.ChildrenMT50 > *,
+.ChildrenNLMT50 > *:not(:last-child),
+.ChildrenNFMT50 > *:not(:first-child) {
+    margin-top: 50px;
+}
+
+.MR5,
+.ChildrenMR5 > *,
+.ChildrenNLMR5 > *:not(:last-child),
+.ChildrenNFMR5 > *:not(:first-child) {
+    margin-right: 5px;
+}
+
+.MR7,
+.ChildrenMR7 > *,
+.ChildrenNLMR7 > *:not(:last-child),
+.ChildrenNFMR7 > *:not(:first-child) {
+    margin-right: 7px;
+}
+
+.MR10,
+.ChildrenMR10 > *,
+.ChildrenNLMR10 > *:not(:last-child),
+.ChildrenNFMR10 > *:not(:first-child) {
+    margin-right: 10px;
+}
+
+.MR15,
+.ChildrenMR15 > *,
+.ChildrenNLMR15 > *:not(:last-child),
+.ChildrenNFMR15 > *:not(:first-child) {
+    margin-right: 15px;
+}
+
+.MR20,
+.ChildrenMR20 > *,
+.ChildrenNLMR20 > *:not(:last-child),
+.ChildrenNFMR20 > *:not(:first-child) {
+    margin-right: 20px;
+}
+
+.MR25,
+.ChildrenMR25 > *,
+.ChildrenNLMR25 > *:not(:last-child),
+.ChildrenNFMR25 > *:not(:first-child) {
+    margin-right: 25px;
+}
+
+.MR30,
+.ChildrenMR30 > *,
+.ChildrenNLMR30 > *:not(:last-child),
+.ChildrenNFMR30 > *:not(:first-child) {
+    margin-right: 30px;
+}
+
+.MR40,
+.ChildrenMR40 > *,
+.ChildrenNLMR40 > *:not(:last-child),
+.ChildrenNFMR40 > *:not(:first-child) {
+    margin-right: 40px;
+}
+
+.MR50,
+.ChildrenMR50 > *,
+.ChildrenNLMR50 > *:not(:last-child),
+.ChildrenNFMR50 > *:not(:first-child) {
+    margin-right: 50px;
+}
+
+.MB5,
+.ChildrenMB5 > *,
+.ChildrenNLMB5 > *:not(:last-child),
+.ChildrenNFMB5 > *:not(:first-child) {
+    margin-bottom: 5px;
+}
+
+.MB7,
+.ChildrenMB7 > *,
+.ChildrenNLMB7 > *:not(:last-child),
+.ChildrenNFMB7 > *:not(:first-child) {
+    margin-bottom: 7px;
+}
+
+.MB10,
+.ChildrenMB10 > *,
+.ChildrenNLMB10 > *:not(:last-child),
+.ChildrenNFMB10 > *:not(:first-child) {
+    margin-bottom: 10px;
+}
+
+.MB15,
+.ChildrenMB15 > *,
+.ChildrenNLMB15 > *:not(:last-child),
+.ChildrenNFMB15 > *:not(:first-child) {
+    margin-bottom: 15px;
+}
+
+.MB20,
+.ChildrenMB20 > *,
+.ChildrenNLMB20 > *:not(:last-child),
+.ChildrenNFMB20 > *:not(:first-child) {
+    margin-bottom: 20px;
+}
+
+.MB25,
+.ChildrenMB25 > *,
+.ChildrenNLMB25 > *:not(:last-child),
+.ChildrenNFMB25 > *:not(:first-child) {
+    margin-bottom: 25px;
+}
+
+.MB30,
+.ChildrenMB30 > *,
+.ChildrenNLMB30 > *:not(:last-child),
+.ChildrenNFMB30 > *:not(:first-child) {
+    margin-bottom: 30px;
+}
+
+.MB40,
+.ChildrenMB40 > *,
+.ChildrenNLMB40 > *:not(:last-child),
+.ChildrenNFMB40 > *:not(:first-child) {
+    margin-bottom: 40px;
+}
+
+.MB50,
+.ChildrenMB50 > *,
+.ChildrenNLMB50 > *:not(:last-child),
+.ChildrenNFMB50 > *:not(:first-child) {
+    margin-bottom: 50px;
+}
+
+.ML5,
+.ChildrenML5 > *,
+.ChildrenNLML5 > *:not(:last-child),
+.ChildrenNFML5 > *:not(:first-child) {
+    margin-left: 5px;
+}
+
+.ML7,
+.ChildrenML7 > *,
+.ChildrenNLML7 > *:not(:last-child),
+.ChildrenNFML7 > *:not(:first-child) {
+    margin-left: 7px;
+}
+
+.ML10,
+.ChildrenML10 > *,
+.ChildrenNLML10 > *:not(:last-child),
+.ChildrenNFML10 > *:not(:first-child) {
+    margin-left: 10px;
+}
+
+.ML15,
+.ChildrenML15 > *,
+.ChildrenNLML15 > *:not(:last-child),
+.ChildrenNFML15 > *:not(:first-child) {
+    margin-left: 15px;
+}
+
+.ML20,
+.ChildrenML20 > *,
+.ChildrenNLML20 > *:not(:last-child),
+.ChildrenNFML20 > *:not(:first-child) {
+    margin-left: 20px;
+}
+
+.ML25,
+.ChildrenML25 > *,
+.ChildrenNLML25 > *:not(:last-child),
+.ChildrenNFML25 > *:not(:first-child) {
+    margin-left: 25px;
+}
+
+.ML30,
+.ChildrenML30 > *,
+.ChildrenNLML30 > *:not(:last-child),
+.ChildrenNFML30 > *:not(:first-child) {
+    margin-left: 30px;
+}
+
+.ML40,
+.ChildrenML40 > *,
+.ChildrenNLML40 > *:not(:last-child),
+.ChildrenNFML40 > *:not(:first-child) {
+    margin-left: 40px;
+}
+
+.ML50,
+.ChildrenML50 > *,
+.ChildrenNLML50 > *:not(:last-child),
+.ChildrenNFML50 > *:not(:first-child) {
+    margin-left: 50px;
+}

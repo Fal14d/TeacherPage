@@ -1,0 +1,48 @@
+﻿#FooterBase {
+    -moz-text-size-adjust: 200%;
+    -webkit-text-size-adjust: 200%;
+    text-size-adjust: 200%;
+
+    font-size: 0.8rem;
+    color: #F1F1F1;
+}
+
+#FooterCustom {
+    line-height: 1.5rem;
+    padding: 20px 40px;
+}
+
+#FooterSet {
+    background-color: #686868;
+}
+
+#FooterLinkSection > *:last-child {
+    margin-right: 60px;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 99999;
+    height: 40px;
+    width: 40px;
+    border: 2px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: 0.3s;
+    display: none;
+}
+
+#back-to-top:hover {
+    background-color: #333;
+}
+
+#back-to-top > img {
+    width: 36px;
+    height: 36px;
+    -webkit-transform: rotate(-180deg);
+    -moz-transform: rotate(-180deg); 
+    -o-transform: rotate(-180deg);
+    transform: rotate(-180deg);
+}
